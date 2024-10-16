@@ -3,11 +3,11 @@
   "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
   "powerPlatformSolutionFolder": "WarehouseHelper",
   "environments": [
-    "Staging"
+    "BC25SE2"
   ],
- "DeployToStaging": {
-  "environmentName": "Sandbox",
-  "companyId": "f1678e37-e50b-ef11-9f8e-6045bdc8c192",
-  "ppEnvironmentUrl": "https://orgf287aea1.crm.dynamics.com/"
+ "DeployToBC25SE2": {
+  "environmentName": "BC25-SE-2",
+  "companyId": "b3ab0080-1b7a-ef11-ac27-6045bdac93e8",
+  "ppEnvironmentUrl": "https://vetej.crm.dynamics.com/"
  }
 }
